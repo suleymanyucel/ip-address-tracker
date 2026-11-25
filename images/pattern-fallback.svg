@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="280" viewBox="0 0 1440 280" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#6367e8"/>
+      <stop offset=".55" stop-color="#4c6ce6"/>
+      <stop offset="1" stop-color="#5f74ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="280" fill="url(#g)"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2">
+    <path d="M-20 60 L180 40 L260 120 L120 210 L-20 180"/>
+    <path d="M180 40 L330 -10 M260 120 L420 100 L470 230 L300 290"/>
+    <path d="M420 100 L560 20 L700 70 L640 200 L470 230"/>
+    <path d="M700 70 L860 30 L960 140 L820 240 L640 200"/>
+    <path d="M860 30 L1000 -10 M960 140 L1120 90 L1200 220 L1020 300"/>
+    <path d="M1120 90 L1260 20 L1420 60 L1380 200 L1200 220"/>
+    <path d="M1420 60 L1500 120 M1380 200 L1460 290"/>
+    <path d="M330 -10 L380 40 L300 70 Z"/>
+    <path d="M1000 210 L1060 170 L1090 240 Z"/>
+  </g>
+  <g fill="#fff" fill-opacity=".05">
+    <path d="M560 20 L700 70 L640 200 L470 230 L420 100 Z"/>
+    <path d="M1120 90 L1260 20 L1420 60 L1380 200 L1200 220 Z"/>
+  </g>
+</svg>
